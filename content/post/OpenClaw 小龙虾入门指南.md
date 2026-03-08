@@ -1,10 +1,12 @@
 ---
+title: 'OpenClaw 小龙虾入门指南'
 date: '2026-03-08T17:20:23+08:00'
 draft: false
-title: 'OpenClaw 小龙虾入门指南'
 author: 'Keti'
 ---
 # OpenClaw 小龙虾入门指南
+
+![1](/images/Gemini_Generated_Image_pr7m58pr7m58pr7m.png)
 
 > **EXFOLIATE! EXFOLIATE!** 🦞
 
@@ -46,6 +48,8 @@ WhatsApp / Telegram / Slack / Discord / Signal / iMessage
                ├─ macOS App
                └─ iOS / Android 节点
 ```
+
+![2](/images/Gemini_Generated_Image_ueam7dueam7dueam.png)
 
 ### 核心组件
 
@@ -109,6 +113,8 @@ pnpm gateway:watch
 | 企业服务 | Nextcloud Talk、Synology Chat、Tlon |
 | 社交媒体 | Twitch |
 | Web | WebChat |
+
+![3](/images/Gemini_Generated_Image_im8fhnim8fhnim8f.png)
 
 ---
 
