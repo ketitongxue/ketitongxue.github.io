@@ -7,7 +7,8 @@ params:
   color: 'wheat'
   name: 'Keti'
   bio: '我的个人博客'
-
+  Author:
+    name: 'Keti'
   # 代码块样式
   pygmentsUseClasses: true
 
